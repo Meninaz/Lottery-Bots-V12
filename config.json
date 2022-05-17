@@ -1,0 +1,22 @@
+{
+    "token": "",
+    "prefix": "h!",
+    "db_url": "",
+    "price": {
+        "per_lottery": 1000,
+        "match_all": 1000000,
+        "match_last3": 200000,
+        "match_last2": 100000
+    },
+    "emoji": {
+        "money": "<a:a_Info_money:902744826129305611>"
+    },
+    "no_avatar_link": "https://media.discordapp.net/attachments/855829803454562325/872461837235523664/ufo.png",
+    "admin": ["584669096361328641"],
+    "topup": {
+        "ch": "902530677994557460",
+        "keyword": "has received your",
+        "prefix": "!",
+        "bot": "356950275044671499"
+    }
+}
